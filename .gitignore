@@ -130,5 +130,5 @@ dmypy.json
 *.csv
 
 # Dataset
+data/
 *.zip
-*.csv
